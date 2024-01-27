@@ -1,0 +1,4 @@
+package org.javacourse.opps;
+
+public class Test {
+}
